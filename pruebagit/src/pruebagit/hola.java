@@ -3,7 +3,7 @@ package pruebagit;
 public class hola {
 
 	public static void main(String[] args) {
-		System.out.println("Hola a tothom");
+		System.out.println("Hola tothom");
 		
 
 	}
